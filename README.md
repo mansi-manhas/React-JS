@@ -1,2 +1,2 @@
 # React-JS
-JavaScript/React Projects
+This repository contains small projects developed using either plain JavaScript or ReactJS
